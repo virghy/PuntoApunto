@@ -1,0 +1,103 @@
+<?xml version = "1.0" encoding="Windows-1252" standalone="yes"?>
+<VFPDataSet>
+	<xsd:schema id="VFPDataSet" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:element name="VFPDataSet" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="categories" minOccurs="0" maxOccurs="unbounded">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="categoryid" type="xsd:int"/>
+								<xsd:element name="categoryname">
+									<xsd:simpleType>
+										<xsd:restriction base="xsd:string">
+											<xsd:maxLength value="15"/>
+										</xsd:restriction>
+									</xsd:simpleType>
+								</xsd:element>
+								<xsd:element name="description" minOccurs="0">
+									<xsd:simpleType>
+										<xsd:restriction base="xsd:string">
+											<xsd:maxLength value="2147483647"/>
+										</xsd:restriction>
+									</xsd:simpleType>
+								</xsd:element>
+							</xsd:sequence>
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="region" minOccurs="0" maxOccurs="unbounded">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="regionid" type="xsd:int"/>
+								<xsd:element name="regiondescription">
+									<xsd:simpleType>
+										<xsd:restriction base="xsd:string">
+											<xsd:maxLength value="50"/>
+										</xsd:restriction>
+									</xsd:simpleType>
+								</xsd:element>
+							</xsd:sequence>
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+				<xsd:anyAttribute namespace="http://www.w3.org/XML/1998/namespace" processContents="lax"/>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<categories>
+		<categoryid>1</categoryid>
+		<categoryname>Beverages</categoryname>
+		<description>Soft drinks, coffees, teas, beers, and ales</description>
+	</categories>
+	<categories>
+		<categoryid>2</categoryid>
+		<categoryname>Condiments</categoryname>
+		<description>Sweet and savory sauces, relishes, spreads, and seasonings</description>
+	</categories>
+	<categories>
+		<categoryid>3</categoryid>
+		<categoryname>Confections</categoryname>
+		<description>Desserts, candies, and sweet breads</description>
+	</categories>
+	<categories>
+		<categoryid>4</categoryid>
+		<categoryname>Dairy Products</categoryname>
+		<description>Cheeses</description>
+	</categories>
+	<categories>
+		<categoryid>5</categoryid>
+		<categoryname>Grains/Cereals</categoryname>
+		<description>Breads, crackers, pasta, and cereal</description>
+	</categories>
+	<categories>
+		<categoryid>6</categoryid>
+		<categoryname>Meat/Poultry</categoryname>
+		<description>Prepared meats</description>
+	</categories>
+	<categories>
+		<categoryid>7</categoryid>
+		<categoryname>Produce</categoryname>
+		<description>Dried fruit and bean curd</description>
+	</categories>
+	<categories>
+		<categoryid>8</categoryid>
+		<categoryname>Seafood</categoryname>
+		<description>Seaweed and fish</description>
+	</categories>
+	<region>
+		<regionid>1</regionid>
+		<regiondescription>Eastern</regiondescription>
+	</region>
+	<region>
+		<regionid>2</regionid>
+		<regiondescription>Western</regiondescription>
+	</region>
+	<region>
+		<regionid>3</regionid>
+		<regiondescription>Northern</regiondescription>
+	</region>
+	<region>
+		<regionid>4</regionid>
+		<regiondescription>Southern</regiondescription>
+	</region>
+</VFPDataSet>

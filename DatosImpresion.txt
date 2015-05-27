@@ -1,0 +1,56 @@
+1	1	11	20	fecha                                             	NULL	C	NULL	NULL
+4	1	9	120	transform(numero,'@R 009-999-999999')             	NULL	C	NULL	NULL
+5	1	5	115	'CREDITO'                                         	NULL	C	plazo > 0                                         	NULL
+6	1	20	8	transform(idproducto,'XXXXXXXXXX')                	                    	D	NULL	NULL
+7	1	5	115	'CONTADO'                                         	NULL	C	plazo =0                                          	NULL
+8	1	55	40	'Dolares ' + ALLTRIM(numeral(int(TotalFactura))) + ' CON ' + SUBSTR(STR(TotalFactura - INT(TotalFactura),3,2),2) + '/100'	NULL	P	m.dec > 0                                         	NULL
+9	1	55	40	'Guaranies ' + ALLTRIM(numeral(int(TotalFactura)))                                      	NULL	P	m.dec=0                                           	NULL
+10	1	13	20	cliente                                           	NULL	C	NULL	NULL
+11	1	15	20	direccion                                         	NULL	C	NULL	NULL
+12	1	13	95	ruc                                               	NULL	C	NULL	NULL
+13	1	15	95	telefono                                          	NULL	C	NULL	NULL
+14	1	20	23	transform(cantidad,'999999.99')                   	                    	D	                                                  	NULL
+15	1	20	33	left(producto,50)                                 	NULL	D	                                                  	NULL
+16	1	20	85	transform(CostoUnitario,m.mascara)                	                    	D	                                                  	NULL
+17	1	0	0	iva0=iva0+(costounitario*cantidad)                	NULL	D	iva=0                                             	True
+18	1	0	0	iva5=iva5+(costounitario*cantidad)                	NULL	D	iva=5                                             	True
+19	1	NULL	NULL	iva0=0                                            	NULL	C	NULL	True
+20	1	NULL	NULL	iva5=0                                            	NULL	C	NULL	True
+21	1	NULL	NULL	iva10=0                                           	NULL	C	NULL	True
+22	1	NULL	NULL	iva10=iva10+(costounitario*cantidad)              	NULL	D	iva=10                                            	True
+23	1	20	100	transform(costounitario*cantidad,m.mascara)       	                    	D	iva=0                                             	False
+24	1	20	114	transform(costounitario*cantidad,m.mascara)       	NULL	D	iva=5                                             	NULL
+25	1	20	125	transform(costounitario*cantidad,m.mascara)       	NULL	D	iva=10                                            	NULL
+26	1	54	95	transform(iva0,m.mascara)                         	NULL	P	1=2                                               	NULL
+27	1	54	105	transform(iva5,m.mascara)                         	NULL	P	1=2                                               	NULL
+28	1	54	120	transform(iva10,m.mascara)                        	NULL	P	1=2                                               	NULL
+29	1	56	40	transform(miva5,m.mascara)                        	NULL	P	                                                  	False
+30	1	56	70	transform(miva10,m.mascara)                       	NULL	P	                                                  	NULL
+31	1	NULL	NULL	miva5=round(Iva5/21,m.decimales)                  	NULL	P	                                                  	True
+32	1	NULL	NULL	miva10=round(Iva10/11,m.decimales)                	NULL	P	                                                  	True
+33	1	56	105	transform(miva5+miva10,m.mascara)                 	NULL	P	NULL	NULL
+34	1	NULL	NULL	miva5=0                                           	NULL	C	NULL	True
+35	1	NULL	NULL	miva10=0                                          	NULL	C	NULL	True
+36	1	55	125	transform(totalFactura,m.mascara)                 	NULL	P	NULL	NULL
+37	1	NULL	NULL	m.decimales=IIF(IdMoneda='GS',0,2)                	NULL	C	                                                  	True
+38	1	NULL	NULL	m.mascara='999,999,999'                           	NULL	C	IdMoneda='GS'                                     	True
+39	1	NULL	NULL	m.mascara='999,999.99'                            	NULL	C	IdMoneda<>'GS'                                    	True
+40	1	11	105	Condicion                                         	NULL	C	NULL	NULL
+
+
+
+
+
+SELECT     v.IdComprobante, v.Numero, v.Sucursal, v.IdCliente, c.RazSocial AS Cliente, v.IdCondicion, cond.Descripcion AS Condicion, Fecha=convert(char(10),v.Fecha,105), v.IdVendedor, 
+                      RTRIM(p.Nombre) + ' ' + p.Apellido AS Vendedor, v.IdNegocio, det.IdProducto, det.Cantidad, det.Precio, isnull(real,precio) AS CostoUnitario, 
+                      det.GravadaIncluido, det.RegimenTurismo, det.Imprime, c.Direccion, c.Telefono, c.Ruc, cond.Plazo, det.Descripcion AS Producto, det.Iva, 
+                      det.[real], TotalFactura,v.IdMoneda
+FROM         dbo.vt_clientes c RIGHT OUTER JOIN
+                      dbo.vt_factura v INNER JOIN
+                      dbo.st_movimiento_Det det ON v.IdFactura = det.IdFactura ON c.IdEmpresa = v.IdEmpresa AND c.IdCliente = v.IdCliente LEFT OUTER JOIN
+                      dbo.vt_Condicion cond ON v.IdEmpresa = cond.IdEmpresa AND v.IdCondicion = cond.IdCondicion LEFT OUTER JOIN
+                      dbo.BS_Personas p INNER JOIN
+                      dbo.vt_Vendedores vend ON p.IdPersona = vend.idpersona ON v.IdEmpresa = vend.IdEmpresa AND v.IdVendedor = vend.IdVendedor
+                      where v.IdFactura = ?m.IdFActura 
+
+

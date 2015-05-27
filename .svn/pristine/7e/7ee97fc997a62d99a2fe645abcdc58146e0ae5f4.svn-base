@@ -1,0 +1,7 @@
+Error 1098, Procedimiento sin cerrar. La última línea de código debe ser ENDPROC. [PROCEDURE addnew]
+indentarmemo, 7471
+ERROR (TEXTMERGE(C_PROCEDURE_NOT_CLOSED_ON_LINE_LOC))
+
+
+
+Archivo origen: C:\sistemas\Futura9\forms\fn_creditos.scx

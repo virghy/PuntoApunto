@@ -1,0 +1,1 @@
+osql -E -S .\sqlexpress -Q"backup database PuntoAPunto to disk='c:\sistemas\versiones\puntoapunto\puntoapunto.bak'"

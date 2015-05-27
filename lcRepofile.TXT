@@ -1,0 +1,380 @@
+
+ Resumen de Contratos x Servicio                                          EPEM
+
+   Peri01/07/11  al
+
+  Servicios    Contrato        Realizado  Incluido   Precio  Importe
+
+      9852-2 SERVICIOS              1
+  0021 T.A.R.                       1                            0
+      9216-2 ESSO STANDAR           1
+  0022 CONTROL DE AUSENTISMO        1                            0
+
+      9390-2 PARTICULARES           1
+      9857-2 PROTECCION             2
+      9672-2 SANTA CLARA            1
+      9852-2 SERVICIOS              1
+  0023 T.A.R IDA                    5                            0
+
+      9390-2 PARTICULARES           1
+  0024 T.A.R. VUELTA                1                            0
+      9239-2 ALAMEDA S.A.           1
+      9190-2 CONFED.                1
+      9216-2 ESSO STANDAR           1
+      8238-2 FUNDACION              1
+      9027-2 HOTEL GUARANI          1
+      9151-2 JW ENTERPRISES         1
+      9186-2 LIDO BAR               1
+      9665-2 MEDICINA               1
+
+      9831-2 MERCURIO S.A.          1
+      9390-2 PARTICULARES           2
+      9022-2 PREVENCION             1
+      9914-2 SCAVONE                1
+      9852-2 SERVICIOS              3
+      9386-2 SHOPPING DEL           1
+      9346-2 SIN CARGO              1
+      9234-2 UNIVERSIDAD SAN        1
+      9096-2 URBIWORLD S.A.         1
+  0025 URGENCIA + DERIVACION       20                            0
+      9478-2 ASO.OBRA               1
+
+      9025-2 BAHIA S.A.             1
+      11206-1 BENITEZ DE            1
+      9108-2 BICOLOR S.A.           1
+      9405-2 C.A.V. S.A.            1
+      9908-2 CITY HOTEL             1
+      9387-2 COLEGIO EL SOL         1
+      9072-2 COOMECIPAR             1
+      9063-2 DANDRES S.A.           2
+      10075-1 DENIS FLOR,           1
+      9915-2 ELID S.A.              1
+      9060-2 ENVACO S.A.            1
+      9216-2 ESSO STANDAR           1
+      9277-2 GES                    3
+      11528-1 GOMEL GOLDMAN,        1
+      9698-2 HOGAR LA PIEDAD        1
+      9040-2 HOTEL EXCELSIOR        2
+      9027-2 HOTEL GUARANI          1
+
+
+ Pág.   1                                               20/07/11 10:20:38 AM
+
+
+
+ Resumen de Contratos x Servicio                                          EPEM
+
+   Peri01/07/11  al
+
+  Servicios    Contrato        Realizado  Incluido   Precio  Importe
+
+      9757-2 IL MANGIARE            1
+      9864-1 JARDIN                 1
+      9148-2 MC. DONALD´S           2
+      9665-2 MEDICINA               1
+      9831-2 MERCURIO S.A.          1
+      9022-2 PREVENCION             1
+      9914-2 SCAVONE                2
+      9852-2 SERVICIOS              7
+      9733-2 SHERATON HOTEL         2
+      9760-2 SIBOL S.A. C.          1
+      9346-2 SIN CARGO              2
+      9248-2 TROVATO CISA           1
+      9238-2 UNICENTRO S.A.         1
+
+      9670-2 UNIVERSIDAD            5
+      9234-2 UNIVERSIDAD SAN        2
+      9708-2 UNIVERSIDAD            1
+      9067-2 V.I.P SEGURITY         2
+  0026 CONSULTA + MEDICACION       55                            0
+      1653-1 ALBA, OSVALDO          1
+      6244-1 ALCARAZ                1
+      8071-1 ALMEIDA DE             1
+      9768-2 AÑOS DORADOS -         1
+      12200-1 ARRIOLA DE            2
+      9478-2 ASO.OBRA               1
+
+      4964-1 AVEIRO DE              1
+      9025-2 BAHIA S.A.             1
+      9240-2 BEC S.A.               2
+      10642-1 CABALLERO,            7
+      86-1 CARRIZOSA ALFARO,        1
+      9686-2 CE. EDUC.              1
+      9908-2 CITY HOTEL             2
+      9387-2 COLEGIO EL SOL         2
+      9683-2 COLEGIO SANTA          1
+      9037-2 COLEGIO SOR            2
+      9072-2 COOMECIPAR                  88.000
+      9063-2 DANDRES S.A.           4
+      11770-1 DE AYALA LUZ          1
+      9167-2 EL MEJOR S.R.L.        1
+      9814-2 EL SOL DEL                  66.000
+      9915-2 ELID S.A.              3
+      9352-2 EMPRENDIMIENTOS        1
+
+      9216-2 ESSO STANDAR           4
+      9073-2 GEMA S.A.                   49.500
+      9277-2 GES                    5
+      11528-1 GOMEL GOLDMAN,        2
+      9614-2 GRUPO SAN              2
+      9090-2 HOTEL  CROWN           1
+      9040-2 HOTEL EXCELSIOR        3
+      9027-2 HOTEL GUARANI          3
+
+ Pág.   2                                               20/07/11 10:20:38 AM
+
+
+
+ Resumen de Contratos x Servicio                                          EPEM
+
+   Peri01/07/11  al
+
+  Servicios    Contrato        Realizado  Incluido   Precio  Importe
+
+      8137-2 HOTEL                  3
+      9885-2 HOTEL LOS ALPES        3
+      9757-2 IL MANGIARE            1
+      9775-2 JARDIN DE INF          1
+      9033-2 LA INDUSTRIAL          1
+      7957-1 LATAZA, ARNALDO        1
+      9186-2 LIDO BAR               1
+      6545-1 MALDONADO,             1
+      9005-2 MC. DONALD´S           2
+      9070-2 MC. DONALD´S           1
+      9148-2 MC. DONALD´S           2
+      9665-2 MEDICINA                    66.000
+      10046-1 MELGAREJO,            1
+
+      10077-1 MELO, NELSON          1
+      89-1 MENDIOLA, MARIA          1
+      12237-1 MEYER DE              2
+      11254-1 MIRANDA, ANA          1
+      11584-1 MOYANO, ALICIA        1
+      9390-2 PARTICULARES           4
+      9065-2 PATRIOT S.A.           2
+      11163-1 PIFFARETTI,           1
+      9022-2 PREVENCION             1
+      9857-2 PROTECCION                  66.000
+      9153-2 RESIDENCIA             1
+      12216-1 SANABRIA,             1
+      6268-1 SANTOS DE MEZA,        2
+      9376-2 SASA                   1
+      9914-2 SCAVONE                3
+      11618-1 SCHMIDT,              1
+      11973-1 SEID EDDINE,          1
+      9852-2 SERVICIOS             2     66.000
+
+      9733-2 SHERATON HOTEL         3
+      9288-2 SHOPPING               1
+      9760-2 SIBOL S.A. C.          2
+      5582-1 SIMBRON DE             1
+      9346-2 SIN CARGO             11
+      8475-1 TORRES OXILIA,         1
+      9497-2 TRANSBARGE             1
+      9217-2 UNICENTRO S.A.         1
+      9238-2 UNICENTRO S.A.         1
+      9670-2 UNIVERSIDAD            4
+      9234-2 UNIVERSIDAD SAN        3
+      9708-2 UNIVERSIDAD            1
+      9096-2 URBIWORLD S.A.         1
+      9067-2 V.I.P SEGURITY         2
+      9117-2 VICENTE SCAVONE        1
+      9809-2 YRENDAGUE S.A.         1
+
+  01 CONSULTA                     175                            0
+      9768-2 AÑOS DORADOS -         1
+
+ Pág.   3                                               20/07/11 10:20:38 AM
+
+
+
+ Resumen de Contratos x Servicio                                          EPEM
+
+   Peri01/07/11  al
+
+  Servicios    Contrato        Realizado  Incluido   Precio  Importe
+
+      9240-2 BEC S.A.               1
+      9623-2 C.E. LOS               1
+      10642-1 CABALLERO,            1
+      9674-2 CASA MODIGA            1
+      9686-2 CE. EDUC.              1
+      9301-2 CHACO-RE S.A.          1
+      9603-2 CIPESA                 1
+      9245-2 COLEGIO LUMEN          2
+      9370-2 COLEGIO NTRA.          1
+      9392-2 COLEGIO SGDO.          1
+      9072-2 COOMECIPAR                 181.500
+      9063-2 DANDRES S.A.           1
+      9915-2 ELID S.A.              3
+
+      9060-2 ENVACO S.A.            1
+      9216-2 ESSO STANDAR           3
+      9222-2 FRIGOMERC S.A.         1
+      9073-2 GEMA S.A.                  165.000
+      4787-1 HALLEY DE              1
+      9035-2 HOGAR SANTA            1
+      9040-2 HOTEL EXCELSIOR        1
+      9027-2 HOTEL GUARANI          1
+      9864-2 JARDIN                 1
+      9151-2 JW ENTERPRISES         1
+      9170-2 LABORATORIO            1
+      9095-2 MC. DONALD´S           1
+      9665-2 MEDICINA                   110.000
+      9831-2 MERCURIO S.A.          1
+      8505-2 PARQUE                 1
+      9390-2 PARTICULARES           2
+      9661-2 PENTA S.A.             1
+      9695-2 PLASTIFLEX S.A.        1
+
+      10299-1 SABE ELIAS,           1
+      9852-2 SERVICIOS                  110.000
+      9701-2 SES S.A.               1
+      9733-2 SHERATON HOTEL         1
+      9288-2 SHOPPING               1
+      10000-2 SIDUS S.A.            1
+      9346-2 SIN CARGO              2
+      9291-2 SOCIEDAD               1
+      9670-2 UNIVERSIDAD            2
+      9234-2 UNIVERSIDAD SAN        1
+      9708-2 UNIVERSIDAD            1
+      9067-2 V.I.P SEGURITY         1
+      8069-2 VERNON ICSA            1
+      9117-2 VICENTE SCAVONE        1
+      9223-2 YASY PORA S.A.         1
+  02 URGENCIAS                     62                            0
+
+      9108-2 BICOLOR S.A.           1
+      9603-2 CIPESA                 1
+
+ Pág.   4                                               20/07/11 10:20:38 AM
+
+
+
+ Resumen de Contratos x Servicio                                          EPEM
+
+   Peri01/07/11  al
+
+  Servicios    Contrato        Realizado  Incluido   Precio  Importe
+
+      12239-1 EDUARDO               1
+      9222-2 FRIGOMERC S.A.         1
+      11297-1 GATTI                 1
+      9005-2 MC. DONALD´S           1
+      9390-2 PARTICULARES           2
+      9857-2 PROTECCION                 165.000
+      9852-2 SERVICIOS                  110.000
+      9386-2 SHOPPING DEL           1
+      9670-2 UNIVERSIDAD            1
+      9106-2 YASY PORA S.A.         1
+  03 EMERGENCIA                    13                            0
+
+      9072-2 COOMECIPAR                 121.000
+      11652-1 GEHRTS, WERNER        1
+      9078-2 INSTITUTO              1
+      9390-2 PARTICULARES           4
+      9857-2 PROTECCION             4
+      9376-2 SASA                   1
+      9852-2 SERVICIOS                  143.000
+      9670-2 UNIVERSIDAD            1
+  04A T.B.R                        19                            0
+
+      9478-2 ASO.OBRA               1
+      10642-1 CABALLERO,            1
+      9072-2 COOMECIPAR             2
+      9348-2 FUNCIONARIO            1
+      9295-2 FUNDACION SAN          1
+      11652-1 GEHRTS, WERNER        3
+      12517-1 OJEDA MARECO,         1
+      9390-2 PARTICULARES           3
+      9857-2 PROTECCION                 154.000
+      9852-2 SERVICIOS              3
+      9701-2 SES S.A.               1
+      9386-2 SHOPPING DEL           2
+      9346-2 SIN CARGO              3
+
+  04B T.B.R (IDA)                  25                            0
+      9478-2 ASO.OBRA               2
+      10642-1 CABALLERO,            1
+      9072-2 COOMECIPAR             1
+      12084-1 CUEVAS OCAMPO,        1
+      9348-2 FUNCIONARIO            1
+      11652-1 GEHRTS, WERNER        1
+      9390-2 PARTICULARES           2
+      9857-2 PROTECCION             2
+      9852-2 SERVICIOS              2
+      9346-2 SIN CARGO              2
+
+  04D T.B.R. (VUELTA)              15                            0
+      12034-1 BORDON                1
+      11307-1 CENTURION             1
+      12239-1 EDUARDO               1
+
+ Pág.   5                                               20/07/11 10:20:38 AM
+
+
+
+ Resumen de Contratos x Servicio                                          EPEM
+
+   Peri01/07/11  al
+
+  Servicios    Contrato        Realizado  Incluido   Precio  Importe
+
+      9814-2 EL SOL DEL             1
+      9348-2 FUNCIONARIO            3
+      9665-2 MEDICINA               1
+      9346-2 SIN CARGO              5
+  05 ENFERMERIA                    13                            0
+      9190-2 CONFED.                2
+
+      9665-2 MEDICINA                   154.000
+      9267-2 OA IMPORT S.A.         1
+      9390-2 PARTICULARES           2
+      9914-2 SCAVONE                1
+      9701-2 SES S.A.               1
+  08 EMERGENCIA CON TRASLADO        8                            0
+                        
+        413                
+          0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Pág.   6                                               20/07/11 10:20:38 AM
+
+
